@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C# fron and backend coding, also HTML in University
 - 💞️ I’m looking to collaborate on who knows
 - 📫 How to reach me where ever
-- 😄 Pronouns: what are those ?
 - ⚡ Fun fact: i am a jokester
 
 <!---
